@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ELSERAG\\source\\repos\\ChatHub\\wwwroot\\avatars\\2af45379-4644-4fe6-9e55-91b7ad06eeca.jpg",
+      "PackagePath": "staticwebassets\\avatars\\2af45379-4644-4fe6-9e55-91b7ad06eeca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ELSERAG\\source\\repos\\ChatHub\\wwwroot\\avatars\\3f8be6dd-0728-4149-8f60-cd344fadd034.jpg",
+      "PackagePath": "staticwebassets\\avatars\\3f8be6dd-0728-4149-8f60-cd344fadd034.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ELSERAG\\source\\repos\\ChatHub\\wwwroot\\avatars\\4688cbff-6587-4b2d-bcb1-db380e39c24e.jpg",
+      "PackagePath": "staticwebassets\\avatars\\4688cbff-6587-4b2d-bcb1-db380e39c24e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ELSERAG\\source\\repos\\ChatHub\\wwwroot\\avatars\\6ce3fa47-a9a9-4eca-8078-82cb216cd97c.jpg",
+      "PackagePath": "staticwebassets\\avatars\\6ce3fa47-a9a9-4eca-8078-82cb216cd97c.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ChatHub.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ChatHub.props",
+      "PackagePath": "build\\ChatHub.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ChatHub.props",
+      "PackagePath": "buildMultiTargeting\\ChatHub.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ChatHub.props",
+      "PackagePath": "buildTransitive\\ChatHub.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
